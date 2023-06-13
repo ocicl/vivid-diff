@@ -1,0 +1,10 @@
+* vivid-diff
+
+Colored object diff viewer for common lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/vivid-diff.git   |
+| commit  | {"messa  |
+| systems | vivid-diff |
+|---------+-------------------------------------------|
+
