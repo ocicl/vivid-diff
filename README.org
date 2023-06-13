@@ -4,7 +4,7 @@ Colored object diff viewer for common lisp.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/hyotang666/vivid-diff.git   |
-| commit  | {"messa  |
+| commit  | dae6a74  |
 | systems | vivid-diff |
 |---------+-------------------------------------------|
 
