@@ -8,3 +8,4 @@ Colored object diff viewer for common lisp.
 | systems | vivid-diff |
 |---------+-------------------------------------------|
 
+ 
